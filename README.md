@@ -23,11 +23,11 @@ To run the code the code on your own, you will need to download the "train-test 
 **Fare:** Passenger fare  
 **Cabin:** Cabin number  
 **Embarked:** Port of Embarkation. C = Cherbourg, Q = Queenstown,S = Southampton  
-**GrpSz:** 	
-**WifeAboard:**  
-**HusbandAboard:**	
-**Top:**	
-**Rear:**  
+**GrpSz:**   	
+**WifeAboard:**   
+**HusbandAboard:**  	
+**Top:**  
+**Rear:**   
 **Family:**  
 **miss:**  
 **mrs:**  
