@@ -23,16 +23,16 @@ To run the code the code on your own, you will need to download the "train-test 
 **Fare:** Passenger fare  
 **Cabin:** Cabin number  
 **Embarked:** Port of Embarkation. C = Cherbourg, Q = Queenstown,S = Southampton  
-**GrpSz:**  
-**WifeAboard:**  
-**HusbandAboard:**  
-**Top:**  
-**Rear:**  
-**Family:**  
-**miss:**  
-**mrs:**  
-**master:**  
-**mstrgrp:**  
+**GrpSz:** (Created in Excel) Number passengers with same ticket number  
+**WifeAboard:** (Created in Excel) Indicator if passenger has wife aboard   
+**HusbandAboard:**  (Created in Excel) Indicator if passenger has husband aboard    
+**Top:** (Created in Excel from Titanic map of cabins) Measure of how high up on ship passenger cabin was  
+**Rear:** (Created in Excel from Titanic map of cabins) Measure of how close to rear end of ship passenger cabin was    
+**Family:** (Created with R code) Total family size aboard the Titanic    
+**miss:** (Created with R code) Indicator if female passenger was not married      
+**mrs:**  (Created with R code) Indicator if female passenger was married    
+**master:** (Created with R code) Indicator if passenger had title of "Master" in name  
+**mstrgrp:** (Created with R code) Indicator if passenger was part of a group with someone with the tite of "Master"  
 
 
 
