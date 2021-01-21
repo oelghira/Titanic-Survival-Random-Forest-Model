@@ -23,7 +23,8 @@ To run the code the code on your own, you will need to download the "train-test 
 **Fare:** Passenger fare  
 **Cabin:** Cabin number  
 **Embarked:** Port of Embarkation. C = Cherbourg, Q = Queenstown,S = Southampton  
-:arrow_up: given variables :arrow_down: created variables   
+:arrow_up: given variables  
+:arrow_down: created variables   
 **GrpSz:** (Created in Excel) Number passengers with same ticket number  
 **WifeAboard:** (Created in Excel) Indicator if passenger has wife aboard   
 **HusbandAboard:**  (Created in Excel) Indicator if passenger has husband aboard    
