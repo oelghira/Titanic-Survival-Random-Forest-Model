@@ -35,6 +35,8 @@ To run the code the code on your own, you will need to download the "train-test 
 **mrs:**  (Created with R code) Indicator if female passenger was married    
 **master:** (Created with R code) Indicator if passenger had title of "Master" in name  
 **mstrgrp:** (Created with R code) Indicator if passenger was part of a group with someone with the tite of "Master"  
+**AgeBin:** (Created with R code) Age class. 1 = Age 0 to 15, 2 = Age 15 to 30, 3 = Age 30 to 45, 4 = Age 45 to 60, 5 = Age 60+  
+**FareScl:** (Created with R code) Scaled passenger fare  
 
 
 
