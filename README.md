@@ -2,7 +2,7 @@
 Titanic dataset, description, and R code used to create a random forest model to predict which passengers in the hold out set would survive the ship's sinking
 
 ## Intro:  
-Hello! Thanks for reviewing my creation of a random forest model in R from a dataset of Titanic passengers to predict whether or not passengers in a blind holdout dataset would survive. I completed this project independently while attending a data science bootcamp from Data Science Dojo. Within my course, my model was the third most accurate in predicting a passenger's fate within the holdout set. My model achieved an accuracy of 76%!  
+Hello! Thanks for reviewing my random forest model created in R to predict whether or not Titanic passengers in a blind holdout dataset would survive. I completed this project independently while attending a data science bootcamp from Data Science Dojo. Within my course my model was the third most accurate in predicting a passenger's fate within the holdout set. My model achieved an accuracy of 76%!  
 
 Omar El-Ghirani  
 oelghira@gmail.com  
