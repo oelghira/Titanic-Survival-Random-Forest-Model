@@ -38,6 +38,9 @@ To run the code the code on your own, you will need to download the "train-test 
 **AgeBin:** (Created with R code) Age class. 1 = Age 0 to 15, 2 = Age 15 to 30, 3 = Age 30 to 45, 4 = Age 45 to 60, 5 = Age 60+  
 **FareScl:** (Created with R code) Scaled passenger fare  
 
+## Additional Resources:  
+**Titanic deck plan referenced to create Top variable:** http://titanictimes.com/plans.htm  
+**Titanic deck plan referenced to create Rear variable:** http://www.crismatec.com/python/pl/deck-plans-and-cabin-layouts_home-elements-and-style.jpg  
 
 
 
